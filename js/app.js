@@ -1,4 +1,5 @@
 // Application JavaScript
+// Version 1.1.0
 
 /**
  * Valide un email
