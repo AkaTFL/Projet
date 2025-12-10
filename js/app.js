@@ -59,7 +59,7 @@ function showNotification(message, type = 'success') {
 
 // Initialisation au chargement du DOM
 document.addEventListener('DOMContentLoaded', () => {
-    // Gestion du formulaire de contact
+    // Gestion du formulaire de contact avec validation complète
     const form = document.getElementById('contact-form');
     if (form) {
         form.addEventListener('submit', (e) => {

@@ -17,7 +17,10 @@ build/
 .idea/
 *.swp
 *.swo
+<<<<<<< HEAD
 *~
+=======
+>>>>>>> 45c0aaf1462f68c761358a34497bf12d208624d5
 
 # OS
 .DS_Store
@@ -34,4 +37,9 @@ npm-debug.log*
 # Misc
 .cache/
 temp/
+<<<<<<< HEAD
 tmp/
+=======
+tmp/
+
+>>>>>>> 45c0aaf1462f68c761358a34497bf12d208624d5
