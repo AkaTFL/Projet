@@ -17,7 +17,6 @@ build/
 .idea/
 *.swp
 *.swo
-*~
 
 # OS
 .DS_Store
@@ -35,3 +34,4 @@ npm-debug.log*
 .cache/
 temp/
 tmp/
+
